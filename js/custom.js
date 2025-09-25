@@ -44,7 +44,7 @@ $(function (){
 
     // typejs
     $('header .caption h2').typed({
-        strings: ["A WEB DESIGNER","UI/UX  DEVELOPER"],
+        strings: ["Marketing communication leaner","Digital marketing practitioner"],
         loop: true,
         startDelay: 1000,
         backDelay: 2000
